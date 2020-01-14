@@ -227,7 +227,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         MainWindow.setWindowTitle(QCoreApplication.translate("MainWindow", u"MainWindow", None))
-        self.label.setText(QCoreApplication.translate("MainWindow", u"reconstruction (grayscale) and segmentation (red)", None))
+        self.label.setText(QCoreApplication.translate("MainWindow", u"reconstruction (grayscale) and segmentation (green)", None))
         self.canvas.setText(QCoreApplication.translate("MainWindow", u"canvas", None))
         self.label_2.setText(QCoreApplication.translate("MainWindow", u"latent space components", None))
     # retranslateUi

@@ -20,7 +20,7 @@
       <item>
        <widget class="QLabel" name="label">
         <property name="text">
-         <string>reconstruction (grayscale) and segmentation (red)</string>
+         <string>reconstruction (grayscale) and segmentation (green)</string>
         </property>
        </widget>
       </item>
